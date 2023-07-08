@@ -33,5 +33,5 @@ The repository consists of Jupyter notebooks, scripts, and resources used to sol
 
 ## Disclaimer
 
-This repository is for personal academic use. Plagiarism is not encouraged. If you're a student in the "Reinforcement Learning" course, refrain from copying or using this material for graded assignments. Use this for learning and understanding.
+This repository is for personal academic use. Plagiarism is not encouraged. If you're a student in the "Visual Recognition" course, refrain from copying or using this material for graded assignments. Use this for learning and understanding.
 
